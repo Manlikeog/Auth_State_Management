@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "106121594021",
+    "firebase_url": "https://my-first-project-96bcd-default-rtdb.firebaseio.com",
+    "project_id": "my-first-project-96bcd",
+    "storage_bucket": "my-first-project-96bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106121594021:android:cf3ca1021a04d3e524794c",
+        "android_client_info": {
+          "package_name": "com.example.doctorhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_v88esMIyks2cEm6a5kkfLsNJR-kqBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106121594021-1fmr2rnoi69pa2iagdhluk5c3a03k4ok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mydoctor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106121594021:android:78cff477e81b0b0d24794c",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_v88esMIyks2cEm6a5kkfLsNJR-kqBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106121594021-1fmr2rnoi69pa2iagdhluk5c3a03k4ok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mydoctor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106121594021:android:d1a1d72f77838f7124794c",
+        "android_client_info": {
+          "package_name": "com.example.oladoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_v88esMIyks2cEm6a5kkfLsNJR-kqBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106121594021-1fmr2rnoi69pa2iagdhluk5c3a03k4ok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mydoctor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
